@@ -1,7 +1,7 @@
 name: macnewsome
 favicon: null
-layout_spectrum: 0.7527725005056709
-typography_spectrum: 0.29593975958414376
+layout_spectrum: 0.54248
+typography_spectrum: 0.69564
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7196892609354109
-  lightness: 0.8095116335898638
-  saturation: 0.3636783950496465
-  rhythmicContrast: 0.7134134811349213
+    - '#000000'
+    - '#4f2766'
+    - '#afadb2'
+    - '#8f8397'
+    - '#f9ba1f'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
